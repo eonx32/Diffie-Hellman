@@ -3,6 +3,7 @@
  *  Generation of 64 bit prime number
  *  and a primitive root modulo n
  *
+ *  @author eonx_32
  */
 
 import java.util.*;

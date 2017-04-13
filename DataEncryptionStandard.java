@@ -3,7 +3,7 @@
  *  Data Encryption Standard to encrypt
  *  and decrypt messages using a 64-bit key
  *
- *  @author Rajat Kumar
+ *  @author eonx_32
  *
  */
 

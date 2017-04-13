@@ -1,6 +1,9 @@
 /*
- * Some important functions
- * for DES
+ *  Some important functions for implementing
+ *  Data Encryption standard
+ *
+ *  @author eonx_32
+ *
  */
 
 class Lib
